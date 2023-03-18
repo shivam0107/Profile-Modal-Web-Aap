@@ -274,6 +274,8 @@
   }
 
 
+  
+
   @media (max-width: 850px) {
     .card-wrapper {
       max-width: 250px;
@@ -310,5 +312,18 @@
     }
     .modal {
       width: 80vw;
+      
     }
+  }
+
+
+  @media (max-width:530px){
+
+    .modal{
+        height: 50vh;
+    }
+    .icon-size{
+       width: 20px;
+        
+      }
   }
