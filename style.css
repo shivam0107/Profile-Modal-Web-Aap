@@ -331,3 +331,27 @@
   
   }
 
+  @media (max-width:470px){
+    .modal-header h1{
+        font-size: 22px;
+    }
+
+    .icon{
+        width: 20px;
+        height: 20px;
+    }
+
+  }
+
+  @media (max-width:375px){
+    .modal-header h1{
+        font-size: 15px;
+    }
+
+    .icon{
+        width: 15px;
+        height: 15px;
+    }
+
+  }
+
