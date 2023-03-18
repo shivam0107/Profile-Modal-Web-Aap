@@ -245,11 +245,11 @@
     color: #fff;
   }
   
-  #telegram {
+  #linkedin{
     color: #0081c2;
     border: 1px solid #0081c2;
   }
-  #telegram:hover {
+  #linkedin:hover {
     background-color: #0081c2;
     color: #fff;
   }
@@ -318,6 +318,15 @@
     .modal {
       width: 80vw;
       
+    }
+
+    .modal-header h1{
+        font-size: 22px;
+    }
+
+    .icon{
+        width: 20px;
+        height: 20px;
     }
   
   }
