@@ -164,6 +164,29 @@
 
   }
 
+  .github-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #ffffff88;
+
+  }
+
+
+.mail-github-section{
+    display: flex;
+    align-items: baseline;
+    gap: 5px;
+}
+
+.mail-github-section{
+    display: flex;
+    align-items: baseline;
+    gap: 5px;
+}
+
   h3{
     margin-top: 10px;
   }
@@ -250,7 +273,7 @@
     pointer-events: initial;
   }
 
-  
+
   @media (max-width: 850px) {
     .card-wrapper {
       max-width: 250px;
