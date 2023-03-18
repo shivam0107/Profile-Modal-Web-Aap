@@ -253,6 +253,11 @@
     background-color: #0081c2;
     color: #fff;
   }
+
+  #mail:hover{
+    color: #fff;
+    background-color: #0082c2;
+  }
   
   .active {
     scale: 1;
@@ -314,16 +319,6 @@
       width: 80vw;
       
     }
+  
   }
 
-
-  @media (max-width:530px){
-
-    .modal{
-        height: 50vh;
-    }
-    .icon-size{
-       width: 20px;
-        
-      }
-  }
